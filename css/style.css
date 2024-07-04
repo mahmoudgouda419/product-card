@@ -1,9 +1,13 @@
 .body {
   background-color: beige;
-  color: rgb(30, 40, 30);
+  
 }
 .container {
     display: flex;
   justify-content: center;
   align-items: center;
+}
+div {
+color: red;
+  font-size: 40px;
 }
